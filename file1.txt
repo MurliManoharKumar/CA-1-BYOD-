@@ -6,7 +6,11 @@ This content in file1.txt which is written in branch1
 
 HEAD
 Added some content in branch2
+HEAD
 branch2
 
 Modifying in file1.txt in branch1
 branch1
+
+change in file1.txt in branch2
+branch2
