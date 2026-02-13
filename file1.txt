@@ -1,2 +1,4 @@
 First Line
 fist line from feature branch
+
+Added some content in branch2
