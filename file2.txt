@@ -1,3 +1,7 @@
 content from branch1
 
+HEAD
 This is file2.txt added some content in branch1
+
+Added some content in file2.txt in branch2
+branch2
