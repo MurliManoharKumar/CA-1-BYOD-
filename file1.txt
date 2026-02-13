@@ -2,3 +2,5 @@ First Line
 fist line from feature branch
 
 Added some content in branch2
+
+change in file1.txt in branch2
